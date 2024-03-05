@@ -27,6 +27,11 @@ nav a {
     font-size: 25px;
 }
 
+main{
+    width: 80%;
+    margin: auto;
+}
+
 h2 {
     color: magenta;
     border-bottom: 3px double mediumvioletred;
@@ -55,6 +60,16 @@ p {
     font-size: 30px;
 }
 
+.iframe{
+    display: inline-block;
+    width: 25%;
+    margin: auto;
+}
+
+.mus{
+    text-align: center;
+}
+
 img {
     width: 250px;
 }
@@ -62,3 +77,4 @@ img {
 footer img {
     width: 50px;
 }
+
