@@ -1,0 +1,89 @@
+body {
+    font-family: sans-serif;
+}
+
+.home {
+    width: 50px;
+    position: absolute;
+}
+
+header {
+    height: 700px;
+    background-image: url(https://imag.malavida.com/mvimgbig/download-fs/avatar-world-games-for-kids-36619-2.jpg);
+}
+
+header a:hover {
+    border: 15px solid coral;
+}
+
+.icontext {
+   padding-left: 300px;
+    font-size: 25px;
+}
+
+.icon {
+    height: 250px;
+    width: 250px;
+    position: absolute;
+    top: 600px;
+    left: 40px;
+}
+
+.download {
+    background-color: fuchsia;
+    color: white;
+    border: 3px solid lightcoral;
+    border-radius: 30px;
+    padding: 12px;
+    text-decoration: none;
+}
+
+.about_game_img {
+    justify-content: space-around;
+    padding: 5px;
+    width: 33%;
+    object-fit: cover;
+}
+
+.imeges {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 80px;
+    height: 300px;
+    width: 100%;
+}
+
+.video {
+    display: inline-block;
+    width: 39%;
+}
+
+.about_game {
+    display: inline-block;
+    width: 59%;
+    align-self: flex-start;
+    position: relative;
+    top: -100px;
+}
+
+.play {
+    display: inline-block;
+    margin-top: 15px;
+    justify-content: space-between;
+    text-align: center;
+}
+
+.text_about {
+    background-color: fuchsia;
+    color: white;
+    border-radius: 5px;
+    padding: 10px;
+}
+
+.about_game img {
+    width: 50px;
+}
+
+footer img {
+    width: 50px;
+}
