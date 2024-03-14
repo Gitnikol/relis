@@ -94,3 +94,9 @@ iframe{
 footer img {
     width: 50px;
 }
+
+footer {
+    background-image: linear-gradient(white, pink);
+    text-align: center;
+    margin-top: 30px;
+}
