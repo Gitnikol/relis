@@ -77,7 +77,14 @@ header a:hover {
     background-color: fuchsia;
     color: white;
     border-radius: 5px;
+    text-align: center;
+    width: 80%;
+    height: 60%;
     padding: 10px;
+    font-size: 30px;
+}
+iframe{
+    margin: 10px;
 }
 
 .about_game img {
