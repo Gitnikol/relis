@@ -95,6 +95,8 @@ img {
 
 .gallery-item img:hover {
     transform: scale(2); 
+     width: 350px; 
+    height: 300px;
 }
 
 footer img {
